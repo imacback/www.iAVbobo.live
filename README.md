@@ -8,6 +8,7 @@
 - [x] 最新下载地址：[https://www.avbobo.top](https://www.avbobo.top)
 - [x] [aiweibo.top](https://www.aiweibo.top)
 - [x] [aiweibo.xyz](https://www.aiweibo.top)
+- [x] [iavbobo.site](https://www.iavbobo.site)
 
 #### 下载地址
 如果微信、QQ扫码无法打开，请换其他浏览器扫码下载
